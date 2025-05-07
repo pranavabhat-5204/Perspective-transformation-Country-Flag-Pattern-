@@ -31,3 +31,5 @@ result = cv2.add(pattern, flag)
 result = cv2.add(pattern, flag)
 result_color = cv2.cvtColor(result, cv2.COLOR_BGR2RGB)
 plt.imshow(result_color)
+
+# I have provided my approach and error handling in the readme file. I have also implement a docker application of the same on Hugginface
