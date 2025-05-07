@@ -7,6 +7,8 @@ My approach during this assignment:
 * wrapping and getting the resultant image
 3. Then debugged some challenges which I have explained it in Error Handling
 
+Output obtained for the inputs given:
+![image](https://github.com/user-attachments/assets/c9dec167-b21c-4ad1-b414-5d80ee461d2f)
 
 A few errors which I faced along the way and how I handled it:
 1. The image of the pattern was inverted after being projected.
